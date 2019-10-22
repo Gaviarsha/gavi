@@ -3,3 +3,6 @@ for addition and subtraction function it can add or subtract from previous resul
 also for inverse function can make a determinant from the result of inverse function
 
 ![function matrix](https://user-images.githubusercontent.com/56831230/67253366-77e63b80-f4a1-11e9-8135-b3eb31334d81.jpg)
+
+![previous result](https://user-images.githubusercontent.com/56831230/67253458-e75c2b00-f4a1-11e9-968d-da57706ccba9.jpg)
+
